@@ -6,6 +6,8 @@
 
 A simple personal website and portfolio repository used to demonstrate software development and repository security best practices.
 
+Updated security documentation for Scorecard improvement.
+
 ## Features
 - Personal website landing page
 - GitHub repository documentation
